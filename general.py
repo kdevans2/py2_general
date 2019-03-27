@@ -43,6 +43,11 @@ def testgit(arg):
     arg2 = arg
     pass
 
+def testgit2(arg):
+    """ """
+    arg2 = arg
+    pass
+
 # -------------------------------------------------------
 # path related
 def formatPath(input_string):
