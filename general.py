@@ -38,11 +38,6 @@ def print2(string, txt, boolQuiet = None):
     if not boolQuiet:
         print(string)
 
-def testgit(arg):
-    """ """
-    arg2 = arg
-    pass
-
 def testgit2(arg):
     """ """
     arg2 = arg
