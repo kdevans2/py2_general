@@ -1,1 +1,1 @@
-Repo containing python 2.x modules that belong to no specific other repo.
+Repo containing general python 2.x modules that belong to no specific other repo.
